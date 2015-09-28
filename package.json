@@ -1,0 +1,43 @@
+{
+  "name": "wechat-wallet",
+  "version": "0.0.1",
+  "description": "wechat wallet sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'no tests, you could contribute'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loulin/wechat-wallet.git"
+  },
+  "keywords": [
+    "wechat",
+    "wallet",
+    "payment",
+    "micropay",
+    "jsapi",
+    "qrcode",
+    "cash",
+    "redpack",
+    "coupon",
+    "transfer",
+    "微信支付",
+    "刷卡支付",
+    "公众号支付",
+    "扫码支付",
+    "APP支付",
+    "代金券",
+    "立减优惠",
+    "现金红包",
+    "企业付款"
+  ],
+  "author": "Lou, Lin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loulin/wechat-wallet/issues"
+  },
+  "homepage": "https://github.com/loulin/wechat-wallet#readme",
+  "dependencies": {
+    "wechat-cash": "0.0.3"
+  }
+}
